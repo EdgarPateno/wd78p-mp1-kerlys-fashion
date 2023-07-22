@@ -213,7 +213,7 @@ button.newsletter.btn.btn-info {
 }
 /* end of Newsletter Section */
 
-/* -------------------------------------------- FOOTER SECTION ------------------------------------------ */
+/* --------------------------------------------- FOOTER SECTION ------------------------------------------ */
 section.site-footer {
     background-color: black;
     color: white;
@@ -265,7 +265,7 @@ i#payment-method-footer-bottom {
 }
 /* end of Footer Bottom Section */
 
-/* --------------------------------------- TRACK ORDER PAGE SECTION --------------------------------------- */
+/* ---------------------------------------- TRACK ORDER PAGE SECTION ------------------------------------- */
 button#track-my-order {
     background-color: #329BD1;
     border-color: #329BD1;
@@ -278,6 +278,27 @@ button#track-my-order-submit {
     width: 200px;
 }
 /* end of Track Order page */
+
+/* ---------------------------------------- LV BAGS COLLECTION SECTION ----------------------------------- */
+section.lv-bags-collection div.card {
+    border: none;
+}
+
+.lv-bags-collection-video-banner div.container-liquid {
+    position: relative;
+    display: inline-block;
+}
+
+.lv-bags-collection-video-banner-title h2 {
+    position: absolute; 
+    top: 60%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    /* background-color: rgba(50, 155, 209, 0.7);  */
+    color: #fff; 
+    padding: 10px; 
+    border-radius: 5px;
+}
 
 /* -------------------------------------------- CART PAGE SECTION ---------------------------------------- */
 h6.cart-page-continueshopping {
