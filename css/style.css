@@ -320,6 +320,22 @@ section.lv-bags-collection div.card {
     border: none;
 }
 
+/* ---------------------------------------- BAGS MAIN NAV MENU SECTION ------------------------------------ */
+.all-bags-main-nav-banner .container-liquid {
+  position: relative;
+}
+
+.all-bags-main-nav-banner-title h2 {
+  position: absolute; 
+  top: 60%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  /* background-color: rgba(50, 155, 209, 0.7);  */
+  color: #fff; 
+  padding: 10px; 
+  border-radius: 5px;
+}
+
 /* -------------------------------------------- CART PAGE SECTION ---------------------------------------- */
 h6.cart-page-continueshopping {
     position: relative;
