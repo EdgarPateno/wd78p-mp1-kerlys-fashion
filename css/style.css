@@ -344,6 +344,23 @@ section.lv-bags-collection div.card {
     border: none;
 }
 
+/* ---------------------------------------- SHOES MAIN NAV MENU SECTION ---------------------------------- */
+.shoes-collection-image-banner .container-liquid {
+  position: relative;
+}
+
+.shoes-collection-image-banner-title h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;    
+}
+
+.shoes-collection .card {
+  border: none;
+}
+
 /* -------------------------------------------- CART PAGE SECTION ---------------------------------------- */
 h6.cart-page-continueshopping {
     position: relative;
