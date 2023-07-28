@@ -541,6 +541,15 @@ i#cart-page-cc-icon {
   .jewelry-video-banner-homepage.py-5 {
     padding: 2rem 0 !important;
   }
+
+  /* PRODUCT PAGE */
+  .product-description-tabs-desktop {
+    display: none;
+  }
+
+  .product-description-tabs-mobile {
+    display: block !important;
+  }
 }
 
 @media only screen and (max-width: 414px) {
