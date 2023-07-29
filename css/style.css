@@ -397,6 +397,16 @@ i#cart-page-cc-icon {
     color:#329BD1;
     font-size: 25px;
 }
+
+.cart-page-subtotal {
+    position: relative;
+    right: 6px;
+}
+
+.cart-page-products-title {
+    position: relative;
+    left: 2rem;
+}
 /* end of Cart Page */
 
 
