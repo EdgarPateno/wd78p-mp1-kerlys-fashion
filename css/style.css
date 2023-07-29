@@ -370,6 +370,11 @@ section.lv-bags-collection div.card {
   border: none;
 }
 
+/* ------------------------------------------ PRODUCT PAGE SECTION --------------------------------------- */
+#product-page-cc-icon {
+    font-size: 2rem;
+}
+
 /* -------------------------------------------- CART PAGE SECTION ---------------------------------------- */
 h6.cart-page-continueshopping {
     position: relative;
