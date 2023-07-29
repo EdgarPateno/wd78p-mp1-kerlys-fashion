@@ -315,6 +315,15 @@ section.lv-bags-collection div.card {
 }
 
 /* ---------------------------------------- BAGS MAIN NAV MENU SECTION ------------------------------------ */
+.all-bags-collection .card {
+    border: none;
+}
+
+.all-bags-collection a {
+    text-decoration: none;
+    color: black;
+}
+
 .all-bags-main-nav-banner .container-liquid {
     position: relative;
 }
