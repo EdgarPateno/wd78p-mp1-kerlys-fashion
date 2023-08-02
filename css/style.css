@@ -91,6 +91,10 @@ a.btn.btn-primary:hover {
   }
   
   /* ------------------------------------- ELEVATE YOUR FASHION IMAGE BANNER ---------------------------------*/
+  .elevate-fashion-image-banner img {
+    max-width: 100%;
+  }
+  
   .elevate-fashion-image-banner-container {
     position: relative;
   }
@@ -114,6 +118,10 @@ a.btn.btn-primary:hover {
   }
 
   /* ------------------------- WOMEN'S BAGS AND JEWELLERY IMAGE TEXT OVERLAY SECTION ---------------------*/
+  .womens-bags-jewellery-img-text-overlay img {
+    max-width: 100%;
+  }
+
   div.womens-bags-text-overlay {
     position: relative; 
     display: inline-block;          
