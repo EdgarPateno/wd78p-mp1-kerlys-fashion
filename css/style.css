@@ -422,7 +422,12 @@ i#cart-page-cc-icon {
 }
 /* end of Cart Page */
 
-
+/* -------------------------------------- LARGE SCREEN RESPONSIVENESS -------------------------------- */
+@media only screen and (max-width: 1920px) {
+  .elevate-fashion-image-banner img {
+    width: 100%;
+  }
+}
 /* ------------------------------------------ MOBILE RESPONSIVENESS --------------------------------- */
 
 @media only screen and (max-width: 834px) {
